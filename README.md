@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as  backend developer.<br>- 📚 I'm currently learning Java, Spring and PHP.</p>
+<p align="left">I'm live in Istanbul.<br><br>- 🔭 I’m working as  backend developer.<br>- 📚 I'm currently learning Java, Spring and PHP.</p>
 
 ###
 
